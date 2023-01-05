@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# 💼 My job in few words 
+
+Working at @Playplay as senior fullstack developer.
+
+# 🧮 Some useless stats 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=crazyball&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=crazyball&theme=dracula)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=crazyball&theme=dracula)
