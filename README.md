@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💼 My job in few words 
 
-Working at @Playplay as senior fullstack developer.
+Senior Fullstack Engineer @Playplay.
 
 Entrepreneur @ Holocron Factory
 
