@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 Senior Fullstack Engineer @Playplay.
 
-Entrepreneur @ Holocron Factory
+Entrepreneur @ Holocron Factory & @ Legendary Scribes
 
 # 🧮 Some useless stats 
 
