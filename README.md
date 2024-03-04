@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 # 💼 My job in few words 
 
-Senior Fullstack Engineer @Playplay.
+Senior Fullstack & Tribe Engineer @Playplay.
 
 Entrepreneur @ Holocron Factory & @ Legendary Scribes
 
