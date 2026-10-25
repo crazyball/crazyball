@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # 💼 My job in few words 
 
-Senior Fullstack & Tribe Engineer @Playplay.
+Staff Engineer @Playplay.
 
-Entrepreneur @ Holocron Factory & @ Legendary Scribes
+Founder of Holocron Factory & Legendary Scribes
 
 # 🧮 Some useless stats 
 
